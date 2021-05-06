@@ -32,3 +32,5 @@ C:\users\Jeffrey\documents\epicodus\csharp\cretaceouspark.solution\cretaceouspar
 C:\users\Jeffrey\documents\epicodus\csharp\cretaceouspark.solution\cretaceouspark\obj\Debug\net5.0\ref\CretaceousPark.dll
 C:\users\Jeffrey\documents\epicodus\csharp\cretaceouspark.solution\cretaceouspark\obj\Debug\net5.0\CretaceousPark.pdb
 C:\users\Jeffrey\documents\epicodus\csharp\cretaceouspark.solution\cretaceouspark\obj\Debug\net5.0\CretaceousPark.genruntimeconfig.cache
+C:\users\Jeffrey\documents\epicodus\csharp\cretaceouspark.solution\cretaceouspark\bin\Debug\net5.0\Humanizer.dll
+C:\users\Jeffrey\documents\epicodus\csharp\cretaceouspark.solution\cretaceouspark\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll

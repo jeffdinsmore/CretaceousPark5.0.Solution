@@ -3,3 +3,5 @@
 .vscode
 obj/
 bin/
+.vscode/
+*/appsettings.json
